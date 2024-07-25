@@ -1,0 +1,3 @@
+/mnt/c/users/novo/cpp_projects/selan/trabalho-07-life/src/CMakeFiles/glife.dir
+/mnt/c/users/novo/cpp_projects/selan/trabalho-07-life/src/CMakeFiles/edit_cache.dir
+/mnt/c/users/novo/cpp_projects/selan/trabalho-07-life/src/CMakeFiles/rebuild_cache.dir

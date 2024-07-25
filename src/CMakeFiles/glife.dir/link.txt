@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/glife.dir/main.cpp.o CMakeFiles/glife.dir/life.cpp.o CMakeFiles/glife.dir/manager.cpp.o CMakeFiles/glife.dir/reader.cpp.o CMakeFiles/glife.dir/ext_lib/canvas.cpp.o CMakeFiles/glife.dir/ext_lib/lodepng.cpp.o -o glife 
